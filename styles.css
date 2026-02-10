@@ -1,31 +1,38 @@
-/* Reset some basic styles */
-body {
-    background-color: #F5F1E8; /* Warm Cream */
-    color: #8B6F47; /* Brown */
+.navbar {
+    background-color: #8B6F47;
+    color: #F5F1E8;
 }
 
-/* Links */
-a {
-    color: #8B6F47; /* Brown */
-}
-a:hover {
-    color: #F5F1E8; /* Warm Cream */
+.hero {
+    background-color: #6B5638;
+    color: #F5F1E8;
 }
 
-/* Headings */
-h1, h2, h3, h4, h5, h6 {
-    color: #8B6F47; /* Brown */
+.products {
+    background-color: #F5F1E8;
+    color: #6B5638;
 }
 
-/* Buttons */
 .button {
-    background-color: #8B6F47; /* Brown */
-    color: #F5F1E8; /* Warm Cream */
-}
-.button:hover {
-    background-color: #F5F1E8; /* Warm Cream */
-    color: #8B6F47; /* Brown */
+    background-color: #8B6F47;
+    color: #F5F1E8;
 }
 
-/* Additional styles... */
-/* Add any other necessary styles and replacements */
+.button:hover {
+    background-color: #6B5638;
+}
+
+.form {
+    background-color: #F5F1E8;
+    color: #6B5638;
+}
+
+.cart-modal {
+    background-color: #F5F1E8;
+    color: #6B5638;
+}
+
+.footer {
+    background-color: #8B6F47;
+    color: #F5F1E8;
+}
