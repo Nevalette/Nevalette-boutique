@@ -1,26 +1,31 @@
-/* Updated styles.css - Color scheme changed from pink to cream and brown */
-
+/* Reset some basic styles */
 body {
-    background-color: #f5f5dc; /* cream */
-    color: #4b3d2e; /* brown */
+    background-color: #F5F1E8; /* Warm Cream */
+    color: #8B6F47; /* Brown */
 }
 
-h1, h2, h3, h4, h5, h6 {
-    color: #4b3d2e; /* brown */
-}
-
+/* Links */
 a {
-    color: #4b3d2e; /* brown */
+    color: #8B6F47; /* Brown */
 }
-
 a:hover {
-    color: #f5f5dc; /* cream */
+    color: #F5F1E8; /* Warm Cream */
 }
 
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    color: #8B6F47; /* Brown */
+}
+
+/* Buttons */
 .button {
-    background-color: #4b3d2e; /* brown */
-    color: #f5f5dc; /* cream */
+    background-color: #8B6F47; /* Brown */
+    color: #F5F1E8; /* Warm Cream */
+}
+.button:hover {
+    background-color: #F5F1E8; /* Warm Cream */
+    color: #8B6F47; /* Brown */
 }
 
-/* Add the above styles wherever applicable in your stylesheet */
-
+/* Additional styles... */
+/* Add any other necessary styles and replacements */
